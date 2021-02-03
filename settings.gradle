@@ -1,0 +1,2 @@
+rootProject.name = "NSW Driver Knowledge Test"
+include ':app'
