@@ -10,8 +10,6 @@ class EntryActivityPresenter(val view: View) : Presenter {
     private val model: Model = EntryActivityModel(view as Context, this)
 
     init {
-        view.initUI()
-
         Completable.fromAction {
             view.setQuestionModeToggle(model.getQuestionMode())
         }.subscribeOn(Schedulers.io()).subscribe()

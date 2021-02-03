@@ -86,7 +86,7 @@ class FormalTest(val questionDatabase: QuestionDatabase) : TestRunner {
     override fun getTestStatus(): TestStatus {
         val failed = hasFailed()
 
-        if (currentQuestionIndex > 46){
+        if (currentQuestionIndex >= 46){
             return when(failed){
                 true -> TestStatus.FAILED
                 false -> TestStatus.SUCCESSFULLY_COMPLETED

@@ -36,31 +36,31 @@ class QuestionDatabase(
 
 
     var CAR_ICAC_MAX_INDEX = 3
-    var CAR_GENERAL_KNOWLEDGE_MAX_INDEX = 84
-    var CAR_ROADSAFETY_MAX_INDEX = 312
+    var CAR_GENERAL_KNOWLEDGE_MAX_INDEX = 85
+    var CAR_ROADSAFETY_MAX_INDEX = 313
     var CAR_TRAFFIC_SIGNS_MAX_INDEX = 364
 
-    var RIDER_ICAC_MAX_INDEX = 2
-    var RIDER_GENERAL_KNOWLEDGE_MAX_INDEX = 70
-    var RIDER_ROADSAFETY_MAX_INDEX = 267
-    var RIDER_TRAFFIC_SIGNS_MAX_INDEX = 318
+    var RIDER_ICAC_MAX_INDEX = 3
+    var RIDER_GENERAL_KNOWLEDGE_MAX_INDEX = 71
+    var RIDER_ROADSAFETY_MAX_INDEX = 268
+    var RIDER_TRAFFIC_SIGNS_MAX_INDEX = 319
 
     fun getRandomICAC(): Question {
         var MAX_ICAC = when (mode) {
-            QuestionDatabaseMode.CAR -> CAR_ICAC_MAX_INDEX + 1
-            QuestionDatabaseMode.RIDER -> RIDER_ICAC_MAX_INDEX + 1
+            QuestionDatabaseMode.CAR -> CAR_ICAC_MAX_INDEX
+            QuestionDatabaseMode.RIDER -> RIDER_ICAC_MAX_INDEX
         }
         return questions.subList(0, MAX_ICAC).random()
     }
 
     fun getRandomGeneralKnowledge(): Question {
         var MIN_GENERAL_KNOWLEDGE = when (mode) {
-            QuestionDatabaseMode.CAR -> CAR_ICAC_MAX_INDEX + 1
-            QuestionDatabaseMode.RIDER -> RIDER_ICAC_MAX_INDEX + 1
+            QuestionDatabaseMode.CAR -> CAR_ICAC_MAX_INDEX
+            QuestionDatabaseMode.RIDER -> RIDER_ICAC_MAX_INDEX
         }
         var MAX_GENERAL_KNOWLEDGE = when (mode) {
-            QuestionDatabaseMode.CAR -> CAR_GENERAL_KNOWLEDGE_MAX_INDEX + 1
-            QuestionDatabaseMode.RIDER -> RIDER_GENERAL_KNOWLEDGE_MAX_INDEX + 1
+            QuestionDatabaseMode.CAR -> CAR_GENERAL_KNOWLEDGE_MAX_INDEX
+            QuestionDatabaseMode.RIDER -> RIDER_GENERAL_KNOWLEDGE_MAX_INDEX
         }
 
         return questions.subList(MIN_GENERAL_KNOWLEDGE, MAX_GENERAL_KNOWLEDGE).random()
@@ -68,12 +68,12 @@ class QuestionDatabase(
 
     fun getRandomRoadSafety(): Question {
         var MAX_ROAD_SAFETY = when (mode) {
-            QuestionDatabaseMode.CAR -> CAR_ROADSAFETY_MAX_INDEX + 1
-            QuestionDatabaseMode.RIDER -> RIDER_ROADSAFETY_MAX_INDEX + 1
+            QuestionDatabaseMode.CAR -> CAR_ROADSAFETY_MAX_INDEX
+            QuestionDatabaseMode.RIDER -> RIDER_ROADSAFETY_MAX_INDEX
         }
         var MIN_ROAD_SAFETY = when (mode) {
-            QuestionDatabaseMode.CAR -> CAR_GENERAL_KNOWLEDGE_MAX_INDEX + 1
-            QuestionDatabaseMode.RIDER -> RIDER_GENERAL_KNOWLEDGE_MAX_INDEX + 1
+            QuestionDatabaseMode.CAR -> CAR_GENERAL_KNOWLEDGE_MAX_INDEX
+            QuestionDatabaseMode.RIDER -> RIDER_GENERAL_KNOWLEDGE_MAX_INDEX
         }
 
         return questions.subList(MIN_ROAD_SAFETY, MAX_ROAD_SAFETY).random()
@@ -81,12 +81,12 @@ class QuestionDatabase(
 
     fun getRandomTrafficSign(): Question {
         var MAX_TRAFFIC_SIGN = when (mode) {
-            QuestionDatabaseMode.CAR -> CAR_TRAFFIC_SIGNS_MAX_INDEX + 1
-            QuestionDatabaseMode.RIDER -> RIDER_TRAFFIC_SIGNS_MAX_INDEX + 1
+            QuestionDatabaseMode.CAR -> CAR_TRAFFIC_SIGNS_MAX_INDEX
+            QuestionDatabaseMode.RIDER -> RIDER_TRAFFIC_SIGNS_MAX_INDEX
         }
         var MIN_TRAFFIC_SIGN = when (mode) {
-            QuestionDatabaseMode.CAR -> CAR_ROADSAFETY_MAX_INDEX + 1
-            QuestionDatabaseMode.RIDER -> RIDER_ROADSAFETY_MAX_INDEX + 1
+            QuestionDatabaseMode.CAR -> CAR_ROADSAFETY_MAX_INDEX
+            QuestionDatabaseMode.RIDER -> RIDER_ROADSAFETY_MAX_INDEX
         }
 
         return questions.subList(MIN_TRAFFIC_SIGN, MAX_TRAFFIC_SIGN).random()

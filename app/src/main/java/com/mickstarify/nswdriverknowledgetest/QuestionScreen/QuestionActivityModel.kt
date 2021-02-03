@@ -44,10 +44,6 @@ class QuestionActivityModel(val context: Context, val presenter: Presenter, val 
         }
     }
 
-    override fun getQuestion(): Question {
-        return testRunner.getNextQuestion()
-    }
-
     override fun startTest() {
         showNextQuestion()
     }
@@ -87,6 +83,8 @@ class QuestionActivityModel(val context: Context, val presenter: Presenter, val 
     private fun showNextQuestion() {
         when (testRunner.getTestStatus()){
             TestStatus.INPROGRESS -> {
+                Log.d("dktcar", "test still in progress")
+
                 presenter.displayQuestion(
                     testRunner.getNextQuestion(),
                     testRunner.getQuestionProgressString()
@@ -94,6 +92,7 @@ class QuestionActivityModel(val context: Context, val presenter: Presenter, val 
                 answeredQuestion = false
             }
             TestStatus.SUCCESSFULLY_COMPLETED -> {
+                Log.d("dktcar", "test finished")
                 presenter.showSuccessfullyCompletedTest()
             }
             TestStatus.FAILED -> {

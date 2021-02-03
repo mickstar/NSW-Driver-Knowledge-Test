@@ -16,7 +16,7 @@ class EntryActivityView : AppCompatActivity(), View {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_entry_view)
         presenter = EntryActivityPresenter(this)
-
+        this.initUI()
     }
 
     override fun setQuestionModeToggle(questionMode: QuestionDatabaseMode) {

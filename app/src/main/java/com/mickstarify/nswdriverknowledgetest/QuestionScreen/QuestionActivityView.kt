@@ -139,6 +139,7 @@ class QuestionActivityView : AppCompatActivity(), View {
     }
 
     override fun showSuccessfullyCompletedTest() {
+        Log.d("dktcar", "showing successfully completed dialog")
         val alert = AlertDialog.Builder(this)
             .setTitle("Passed Test!")
             .setMessage("You have successfully completed the drivers knowledge test.")
@@ -152,6 +153,7 @@ class QuestionActivityView : AppCompatActivity(), View {
     }
 
     override fun showFailedTest() {
+        Log.d("dktcar", "showing failed dialog")
         val alert = AlertDialog.Builder(this)
             .setTitle("Failed Test!")
             .setMessage("You have unfortunately failed the drivers knowledge test.")

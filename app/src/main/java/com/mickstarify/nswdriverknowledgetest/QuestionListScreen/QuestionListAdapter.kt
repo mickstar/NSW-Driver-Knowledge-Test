@@ -90,9 +90,6 @@ class QuestionListAdapter(context: Context, val questions: List<QuestionCategory
                     .subscribeOn(Schedulers.io())
                     .observeOn(AndroidSchedulers.mainThread())
                     .subscribe(Consumer<Int> {
-                        if(question.title == "ICAC1"){
-                            Log.d("dktcar", "questionStatus for ICAC1 is ${it}")
-                        }
                         when (it) {
                             QuestionStatus.ANSWERED_CORRECT -> {
                                 (viewHolder as QuestionViewHolder).imageView.visibility = View.VISIBLE

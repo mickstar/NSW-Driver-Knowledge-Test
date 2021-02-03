@@ -31,8 +31,6 @@ interface Presenter {
 
 interface Model {
     abstract var correctAnswerIndex: Int
-
-    fun getQuestion(): Question
     fun startTest()
     fun didUserAnsweredCorrectly(answeredCorrectly: Boolean)
     fun getProgressString(): String
