@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mickstarify.nswdriverknowledgetest">
+    package="com.mickstarify.dktcar">
 
     <application
-        android:name=".NSWDriverKnowledgeTestApplication"
+        android:name="com.mickstarify.dktcar.NSWDriverKnowledgeTestApplication"
         android:allowBackup="true"
         android:icon="@mipmap/icon"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/icon_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.NSWDriverKnowledgeTest">
-        <activity android:name=".QuestionListScreen.QuestionListActivityView"></activity>
-        <activity android:name=".QuestionScreen.QuestionActivityView" />
-        <activity android:name=".EntryScreen.EntryActivityView">
+        <activity android:name="com.mickstarify.dktcar.QuestionListScreen.QuestionListActivityView"></activity>
+        <activity android:name="com.mickstarify.dktcar.QuestionScreen.QuestionActivityView" />
+        <activity android:name="com.mickstarify.dktcar.EntryScreen.EntryActivityView">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity" />
+        <activity android:name="com.mickstarify.dktcar.MainActivity" />
     </application>
 
 </manifest>
