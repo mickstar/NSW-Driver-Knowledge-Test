@@ -515,7 +515,7 @@
     "category": "General Knowledge",
     "question": "Which vehicle is parked correctly?",
     "picture": "car11.png",
-    "optionA": "Vehicle C",
+    "optionA": "Vehicle C.",
     "optionB": "Vehicle A.",
     "optionC": "Vehicle B."
   },
@@ -555,7 +555,7 @@
     "category": "General Knowledge",
     "question": "You should angle park",
     "picture": "car15.png",
-    "optionA": "Where there are markings or a signindicating angle park.",
+    "optionA": "Where there are markings or a sign indicating angle park.",
     "optionB": "Where the road is very wide.",
     "optionC": "Where there is plenty of room from the centre line."
   },
@@ -733,7 +733,7 @@
     "id": 74,
     "title": "CG112",
     "category": "General Knowledge",
-    "question": "You are driving your vehicle along a street and want to stop fora short time. Are you allowed to double park your vehicle (that is stand it on the road alongside a parked car)?",
+    "question": "You are driving your vehicle along a street and want to stop for a short time. Are you allowed to double park your vehicle (that is stand it on the road alongside a parked car)?",
     "picture": "car29.png",
     "optionA": "No, never.",
     "optionB": "Yes, provided you do not leave the vehicle.",
@@ -847,12 +847,12 @@
     "picture": "None",
     "optionA": "Check your mirrors and blind spots for pedestrians, bicycles or other vehicles.",
     "optionB": "Check your seatbelt is back in place.",
-    "optionC": "Check your headlights are turned off"
+    "optionC": "Check your headlights are turned off."
   },
   {
     "id": 86,
     "title": "AD004",
-    "category": "Alcohol and Drugs ",
+    "category": "Alcohol and Drugs",
     "question": "To reduce the effect of alcohol before driving or riding you should",
     "picture": "None",
     "optionA": "Wait. The time depends on how much you have drunk.",
@@ -1236,8 +1236,8 @@
     "question": "You set out on a fairly long drive to see some friends. After a while you start feeling tired. What should you do?",
     "picture": "None",
     "optionA": "Pull off the road, stop and rest until you no longer feel tired.",
-    "optionB": "Stop at a shop and get a drink that contains caffeine to help keep you awake",
-    "optionC": "Make sure you get plenty of fresh air circulating inside the car by winding down your window"
+    "optionB": "Stop at a shop and get a drink that contains caffeine to help keep you awake.",
+    "optionC": "Make sure you get plenty of fresh air circulating inside the car by winding down your window."
   },
   {
     "id": 125,
@@ -1286,7 +1286,7 @@
     "question": "While driving, you come across aggressive, selfish or ignorant driving behaviour by another driver. You should",
     "picture": "None",
     "optionA": "Stay calm and in control of your vehicle at all times.",
-    "optionB": "Respond by using your horn and/or flashing your lights to let the driver know how ",
+    "optionB": "Respond by using your horn and/or flashing your lights to let the driver know how you feel.",
     "optionC": "Chase the car to tell the driver how to drive."
   },
   {
@@ -1316,7 +1316,7 @@
     "question": "When making a right-hand turn at the intersection shown, you must give way to",
     "picture": "car36.png",
     "optionA": "An oncoming vehicle going straight ahead or turning left and any vehicle on your right.",
-    "optionB": "A vehicle approaching from your left andintending to turn right.",
+    "optionB": "A vehicle approaching from your left and intending to turn right.",
     "optionC": "Only pedestrians."
   },
   {
@@ -1327,13 +1327,13 @@
     "picture": "car37.png",
     "optionA": "Yes, whether they are turning or not.",
     "optionB": "No, only the vehicle on the right.",
-    "optionC": "No, you have right of way.31"
+    "optionC": "No, you have right of way."
   },
   {
     "id": 134,
     "title": "IN005",
     "category": "Intersections",
-    "question": "If a STOP or GIVE WAY sign has been knocked down, for example, as the result of an accident,does the line marked across the road have any meaning?",
+    "question": "If a STOP or GIVE WAY sign has been knocked down, for example, as the result of an accident, does the line marked across the road have any meaning?",
     "picture": "None",
     "optionA": "Yes, it has the same meaning as the sign itself.",
     "optionB": "No, but you must give way if turning.",
@@ -1345,7 +1345,7 @@
     "category": "Intersections",
     "question": "If turning at an intersection are you required to give way to pedestrians?",
     "picture": "car38.png",
-    "optionA": "Yes, a driver turning right or left must give way to pedestrians, if there is adanger of a collision ",
+    "optionA": "Yes, a driver turning right or left must give way to pedestrians, if there is a danger of a collision.",
     "optionB": "Yes, only if turning left.",
     "optionC": "Yes, only if turning right."
   },
@@ -1353,9 +1353,9 @@
     "id": 136,
     "title": "IN007",
     "category": "Intersections",
-    "question": "When you come to an intersection and the road beyond is choked with vehicles going in the samedirection, what should you do?",
+    "question": "When you come to an intersection and the road beyond is choked with vehicles going in the same direction, what should you do?",
     "picture": "car39.png",
-    "optionA": "Wait until there is room for you tocompletely cross the intersection.",
+    "optionA": "Wait until there is room for you to completely cross the intersection.",
     "optionB": "Proceed if there is no traffic on your right.",
     "optionC": "Travel into the intersection and wait until traffic ahead moves."
   },
@@ -1403,7 +1403,7 @@
     "id": 141,
     "title": "IN013",
     "category": "Intersections",
-    "question": "The diagram shows a marked pedestrian crossing at an intersection. There is also a STOP sign atthe intersection. You have already stopped for a pedestrian. Must you stop again at the STOP line?",
+    "question": "The diagram shows a marked pedestrian crossing at an intersection. There is also a STOP sign at the intersection. You have already stopped for a pedestrian. Must you stop again at the STOP line?",
     "picture": "car43.png",
     "optionA": "Yes, at all times.",
     "optionB": "Yes, if there is traffic on your right only.",
@@ -1487,7 +1487,7 @@
     "picture": "car48.png",
     "optionA": "Even when there is no other traffic.",
     "optionB": "Only if there is a car on your right or left.",
-    "optionC": "Only if there is danger of a collision withanother vehicle."
+    "optionC": "Only if there is danger of a collision with another vehicle."
   },
   {
     "id": 150,
@@ -1527,23 +1527,23 @@
     "picture": "car51.png",
     "optionA": "Drive carefully and approach at a speed which gives you good time to avoid traffic which might suddenly appear.",
     "optionB": "Come to a complete stop before you come to the intersection.",
-    "optionC": "Flash your lights to let other vehicles know that you are coming. 36"
+    "optionC": "Flash your lights to let other vehicles know that you are coming."
   },
   {
     "id": 154,
     "title": "IN034",
     "category": "Intersections",
-    "question": "You come to an intersection in Sydney with a Light Rail vehicle about to enter. What should youdo?",
+    "question": "You come to an intersection in Sydney with a Light Rail vehicle about to enter. What should you do?",
     "picture": "car52.png",
     "optionA": "Wait until the intersection is clear.",
-    "optionB": "Enter the intersection, but keep away from the Light Railvehicle.",
+    "optionB": "Enter the intersection, but keep away from the Light Rail vehicle.",
     "optionC": "Change lanes before crossing the intersection."
   },
   {
     "id": 155,
     "title": "IN035",
     "category": "Intersections",
-    "question": "You approach an intersection in busy traffic and want to go straight ahead. The traffic lights turngreen. When are you permitted to enter the intersection?",
+    "question": "You approach an intersection in busy traffic and want to go straight ahead. The traffic lights turn green. When are you permitted to enter the intersection?",
     "picture": "car53.png",
     "optionA": "Only when there is room for your vehicle on the other side.",
     "optionB": "Immediately after the traffic lights turn green.",
@@ -1563,7 +1563,7 @@
     "id": 157,
     "title": "IN038",
     "category": "Intersections",
-    "question": "The traffic on the other side of this intersection has stopped. You are in the car shown and want tocross the intersection. The lights are green. What should you do?",
+    "question": "The traffic on the other side of this intersection has stopped. You are in the car shown and want to cross the intersection. The lights are green. What should you do?",
     "picture": "car55.png",
     "optionA": "Wait until there is enough room for your vehicle to cross the intersection completely.",
     "optionB": "Drive through the intersection slowly and hope that it will clear before the lights change.",
@@ -1575,7 +1575,7 @@
     "category": "Intersections",
     "question": "Which statement is correct?",
     "picture": "None",
-    "optionA": "Red light cameras take photographs of vehicles that enterintersections when the lights are red.",
+    "optionA": "Red light cameras take photographs of vehicles that enter intersections when the lights are red.",
     "optionB": "Red light cameras take photographs of vehicles that speed through intersections.",
     "optionC": "Red light cameras take photographs of vehicles that cross intersections when the lights are yellow."
   },
@@ -1613,7 +1613,7 @@
     "id": 162,
     "title": "IN044",
     "category": "Intersections",
-    "question": "You drive up to an intersection with a stop sign. There is no painted stop line. Where should youstop?",
+    "question": "You drive up to an intersection with a stop sign. There is no painted stop line. Where should you stop?",
     "picture": "car59.png",
     "optionA": "Before coming to and as near to the intersection as possible.",
     "optionB": "At least five metres before the intersection.",
@@ -1627,13 +1627,13 @@
     "picture": "car60.png",
     "optionA": "Car B.",
     "optionB": "Car A.",
-    "optionC": "Whoever arrives at the intersection first.39"
+    "optionC": "Whoever arrives at the intersection first."
   },
   {
     "id": 164,
     "title": "IN046",
     "category": "Intersections",
-    "question": "This intersection does not have any traffic lights or signs. You are in car A and want to turn right.When can you go?",
+    "question": "This intersection does not have any traffic lights or signs. You are in car A and want to turn right. When can you go?",
     "picture": "car61.png",
     "optionA": "After the car going straight ahead has passed.",
     "optionB": "Before the car going straight ahead has passed.",
@@ -1643,7 +1643,7 @@
     "id": 165,
     "title": "IN047",
     "category": "Intersections",
-    "question": "You come to an intersection that does not have traffic lights or signs. How do you decide when todrive straight ahead?",
+    "question": "You come to an intersection that does not have traffic lights or signs. How do you decide when to drive straight ahead?",
     "picture": "car62.png",
     "optionA": "Slow down and give way to traffic going into the intersection on your right.",
     "optionB": "Wait until all traffic has left the intersection.",
@@ -1653,7 +1653,7 @@
     "id": 166,
     "title": "IN048",
     "category": "Intersections",
-    "question": "At this intersection there are no signs or traffic lights. You are in the car marked A. You want toturn left. What should you do?",
+    "question": "At this intersection there are no signs or traffic lights. You are in the car marked A. You want to turn left. What should you do?",
     "picture": "car63.png",
     "optionA": "Slow down and give way to car B on your right.",
     "optionB": "Enter the intersection and make the turn.",
@@ -1803,7 +1803,7 @@
     "id": 181,
     "title": "IN067",
     "category": "Intersections",
-    "question": "The red car wants to turn right and exit the roundabout in thestreet indicated by an arrow. Is the car positioned in the correctlane to do this?",
+    "question": "The red car wants to turn right and exit the roundabout in thes treet indicated by an arrow. Is the car positioned in the correctlane to do this?",
     "picture": "car77.png",
     "optionA": "No, the car should enter the roundabout only from the right hand lane.",
     "optionB": "Yes, the car can make the turn only from this lane.",
@@ -1835,7 +1835,7 @@
     "category": "Traffic Lights / Lanes",
     "question": "How should you merge with traffic when entering a freeway?",
     "picture": "None",
-    "optionA": "Watch for a gap and merge with the traffic at the speed it istravelling.",
+    "optionA": "Watch for a gap and merge with the traffic at the speed it is travelling.",
     "optionB": "Speed up and force your way into the traffic.",
     "optionC": "Stop, then enter the traffic quickly."
   },
@@ -1893,9 +1893,9 @@
     "id": 190,
     "title": "LD007",
     "category": "Traffic Lights / Lanes",
-    "question": "A section of road is marked with double unbroken dividing lines as in the diagram. When is avehicle allowed to cross these lines?",
+    "question": "A section of road is marked with double unbroken dividing lines as in the diagram. When is a vehicle allowed to cross these lines?",
     "picture": "car81.png",
-    "optionA": "To enter or leave a street ordriveway.",
+    "optionA": "To enter or leave a street or driveway.",
     "optionB": "To overtake a slow vehicle ahead.",
     "optionC": "When there is no traffic coming theother way."
   },
@@ -1906,8 +1906,8 @@
     "question": "When driving in traffic lanes (as shown in the diagram), you may change your lane",
     "picture": "car82.png",
     "optionA": "Only when it is safe to do so.",
-    "optionB": "Without looking, provided you use your indicator",
-    "optionC": "Provided you sound your horn to warn other drivers "
+    "optionB": "Without looking, provided you use your indicator.",
+    "optionC": "Provided you sound your horn to warn other drivers."
   },
   {
     "id": 192,
@@ -1917,7 +1917,7 @@
     "picture": "car83.png",
     "optionA": "The vehicle which has to cross the lane line.",
     "optionB": "The faster vehicle.",
-    "optionC": "The vehicle in the right-hand lanebecause it is overtaking."
+    "optionC": "The vehicle in the right-hand lane because it is overtaking."
   },
   {
     "id": 193,
@@ -1945,7 +1945,7 @@
     "category": "Traffic Lights / Lanes",
     "question": "If you hear the siren of an emergency vehicle, you must",
     "picture": "None",
-    "optionA": "Take whatever action is necessary (with safety) to make way for theemergency vehicle.",
+    "optionA": "Take whatever action is necessary (with safety) to make way for the emergency vehicle.",
     "optionB": "Flash your headlights to warn other drivers.",
     "optionC": "Increase your speed to avoid the vehicle."
   },
@@ -1963,7 +1963,7 @@
     "id": 197,
     "title": "LD016",
     "category": "Traffic Lights / Lanes",
-    "question": "When the road is marked this way are you permitted to cross the lines to overtake the bicycle riderif the way forward is clear?",
+    "question": "When the road is marked this way are you permitted to cross the lines to overtake the bicycle rider if the way forward is clear?",
     "picture": "car86.png",
     "optionA": "No.",
     "optionB": "Yes.",
@@ -1983,7 +1983,7 @@
     "id": 199,
     "title": "LD018",
     "category": "Traffic Lights / Lanes",
-    "question": "When starting to overtake you see the dividing lines ahead change to double unbroken lines. Whatshould you do?",
+    "question": "When starting to overtake you see the dividing lines ahead change to double unbroken lines. What should you do?",
     "picture": "car88.png",
     "optionA": "Do not overtake because you are not permitted to overtake on double lines.",
     "optionB": "Continue to overtake because you started when the line was broken.",
@@ -1993,7 +1993,7 @@
     "id": 200,
     "title": "LD022",
     "category": "Traffic Lights / Lanes",
-    "question": "You want to turn left at this intersection. There is an edge line that continues through theintersection. Are you permitted to turn here?",
+    "question": "You want to turn left at this intersection. There is an edge line that continues through the intersection. Are you permitted to turn here?",
     "picture": "car89.png",
     "optionA": "Yes, you can cross an edge line to turn into or out of a street.",
     "optionB": "No, not under any circumstances.",
@@ -2023,7 +2023,7 @@
     "id": 203,
     "title": "LD027",
     "category": "Traffic Lights / Lanes",
-    "question": "You change lanes and then see you are in a lane where the T3 rule applies. There is no othertraffic in this lane. You have one passenger. What should you do?",
+    "question": "You change lanes and then see you are in a lane where the T3 rule applies. There is no other traffic in this lane. You have one passenger. What should you do?",
     "picture": "car92.png",
     "optionA": "Change lanes as soon as it is safe because you are not permitted to travel in a T3 lane with only two people in your car.",
     "optionB": "Keep driving in the T3 lane because there is no other traffic in it.",
@@ -2033,7 +2033,7 @@
     "id": 204,
     "title": "LD028",
     "category": "Traffic Lights / Lanes",
-    "question": "You are approaching the start of a T2 transit lane. You are the only person in the car. You want toturn left at the next intersection 200 metres away. Can you travel in the transit lane at this point?",
+    "question": "You are approaching the start of a T2 transit lane. You are the only person in the car. You want to turn left at the next intersection 200 metres away. Can you travel in the transit lane at this point?",
     "picture": "car93.png",
     "optionA": "No, because you can only travel in the transit lane if the intersection you are turning left at is within 100 metres.",
     "optionB": "Yes, because you only have a short distance to drive.",
@@ -2043,7 +2043,7 @@
     "id": 205,
     "title": "LD029",
     "category": "Traffic Lights / Lanes",
-    "question": "You are in car marked Y and want to turn right using a median turning lane. A car marked O,coming towards you, is already in the median lane; it is slowing down and indicating. Are youpermitted to enter and share the median turning lane?",
+    "question": "You are in car marked Y and want to turn right using a median turning lane. A car marked O, coming towards you, is already in the median lane; it is slowing down and indicating. Are you permitted to enter and share the median turning lane?",
     "picture": "car94.png",
     "optionA": "Yes, but you must be prepared to slow down and stop.",
     "optionB": "No, if another car is already in the median turning lane you must not use it.",
@@ -2053,7 +2053,7 @@
     "id": 206,
     "title": "LD032",
     "category": "Traffic Lights / Lanes",
-    "question": "You are driving a car and want to pick up a passenger. The lane you want to stop in is a BUSLANE. Are you permitted to stop there?",
+    "question": "You are driving a car and want to pick up a passenger. The lane you want to stop in is a BUS LANE. Are you permitted to stop there?",
     "picture": "car95.png",
     "optionA": "No, unless you are driving a hire car or a taxi.",
     "optionB": "Yes, if you pick the passenger up and then immediately drive off.",
@@ -2083,17 +2083,17 @@
     "id": 209,
     "title": "LD040",
     "category": "Traffic Lights / Lanes",
-    "question": "Overtaking another vehicle requires good concentration and judgement. Which of thefollowing statements is correct?",
+    "question": "Overtaking another vehicle requires good concentration and judgement. Which of the following statements is correct?",
     "picture": "None",
     "optionA": "You need to watch out for all large, long vehicles which are turning.",
     "optionB": "It is best and safest to speed up when a vehicle behind you tries to overtake you.",
-    "optionC": "The faster the vehicle you are overtaking is going, the less distance you need toovertake."
+    "optionC": "The faster the vehicle you are overtaking is going, the less distance you need to overtake."
   },
   {
     "id": 210,
     "title": "LD041",
     "category": "Traffic Lights / Lanes",
-    "question": "When driving on a multi-lane road with a speed limit of more than 80 km/h, which laneshould you choose?",
+    "question": "When driving on a multi-lane road with a speed limit of more than 80 km/h, which lane should you choose?",
     "picture": "None",
     "optionA": "The left lane unless overtaking.",
     "optionB": "The right lane to avoid slow moving vehicles.",
@@ -2115,7 +2115,7 @@
     "category": "Traffic Lights / Lanes",
     "question": "How should you merge with traffic when entering a motorway?",
     "picture": "None",
-    "optionA": "Watch for a gap and increase your speed to safely merge with thetraffic.",
+    "optionA": "Watch for a gap and increase your speed to safely merge with the traffic.",
     "optionB": "Slow down and force your way into the traffic.",
     "optionC": "Stop, then enter the traffic quickly."
   },
@@ -2163,7 +2163,7 @@
     "id": 217,
     "title": "ND008",
     "category": "Negligent Driving",
-    "question": "When overtaking another vehicle you should NOT move back in front of it, unless –",
+    "question": "When overtaking another vehicle you should NOT move back in front of it, unless",
     "picture": "None",
     "optionA": "You can see the overtaken vehicle in your rear vision mirror.",
     "optionB": "An oncoming car appears over a hill.",
@@ -2233,11 +2233,11 @@
     "id": 224,
     "title": "ND015",
     "category": "Negligent Driving",
-    "question": "You are driving behind a long vehicle (as shown) which has a sign saying DO NOT OVERTAKETURNING VEHICLE. The long vehicle indicates that it is going to turn left. You –",
+    "question": "You are driving behind a long vehicle (as shown) which has a sign saying DO NOT OVERTAKE TURNING VEHICLE. The long vehicle indicates that it is going to turn left. You",
     "picture": "car99.png",
     "optionA": "Must let the long vehicle turn first.",
-    "optionB": "May move to the left-hand side of the road and passthe long vehicle.",
-    "optionC": "May pass the truck because it cannot turn left fromthe middle lane."
+    "optionB": "May move to the left-hand side of the road and pass the long vehicle.",
+    "optionC": "May pass the truck because it cannot turn left from the middle lane."
   },
   {
     "id": 225,
@@ -2273,7 +2273,7 @@
     "id": 228,
     "title": "ND028",
     "category": "Negligent Driving",
-    "question": "If you are convicted of driving with a blood alcohol level that is over the limit for your licence, youcould lose your driver’s licence. You may also",
+    "question": "If you are convicted of driving with a blood alcohol level that is over the limit for your licence, you could lose your driver’s licence. You may also",
     "picture": "None",
     "optionA": "Be sent to prison.",
     "optionB": "Be restricted to driving an automatic vehicle.",
@@ -2293,7 +2293,7 @@
     "id": 230,
     "title": "ND031",
     "category": "Negligent Driving",
-    "question": "You are travelling in the left lane and wish to turn right at the intersection. You move to the rightlane and a driver behind sounds their horn at you. What have you done wrong?",
+    "question": "You are travelling in the left lane and wish to turn right at the intersection. You move to the right lane and a driver behind sounds their horn at you. What have you done wrong?",
     "picture": "car102.png",
     "optionA": "Crossed an unbroken lane line.",
     "optionB": "Driven too slowly.",
@@ -2313,7 +2313,7 @@
     "id": 232,
     "title": "ND033",
     "category": "Negligent Driving",
-    "question": "The speed limit on this road is 90 km/h. You have just overtaken a vehicle in the left lane. Whatshould you do next?",
+    "question": "The speed limit on this road is 90 km/h. You have just overtaken a vehicle in the left lane. What should you do next?",
     "picture": "car104.png",
     "optionA": "Move into the left lane.",
     "optionB": "Keep your position in this lane.",
@@ -2337,7 +2337,7 @@
     "picture": "None",
     "optionA": "Speed up while the other vehicle is on your right.",
     "optionB": "Keep the same speed.",
-    "optionC": "Slow down while the other vehicle is on your right.58"
+    "optionC": "Slow down while the other vehicle is on your right."
   },
   {
     "id": 235,
@@ -2375,7 +2375,7 @@
     "category": "Negligent Driving",
     "question": "When you have started to overtake the car, you notice that its right indicator is flashing. You should",
     "picture": "car106.png",
-    "optionA": "Check your mirror and move back inbehind the car.",
+    "optionA": "Check your mirror and move back in behind the car.",
     "optionB": "Accelerate quickly to get past.",
     "optionC": "Immediately brake to a stop."
   },
@@ -2443,7 +2443,7 @@
     "id": 245,
     "title": "PD003",
     "category": "Pedestrians",
-    "question": "If elderly people or children are on a pedestrian crossing you will probably need to –",
+    "question": "If elderly people or children are on a pedestrian crossing you will probably need to",
     "picture": "None",
     "optionA": "Wait extra time to allow them to cross safely.",
     "optionB": "Sound your horn to hurry them up.",
@@ -2517,7 +2517,7 @@
     "picture": "None",
     "optionA": "Slow down, watch for pedestrians and be ready to make a safe stop.",
     "optionB": "Move into the left lane.",
-    "optionC": "Keep your eyes on the speedo.4"
+    "optionC": "Keep your eyes on the speedo."
   },
   {
     "id": 253,
@@ -2533,7 +2533,7 @@
     "id": 254,
     "title": "PD013",
     "category": "Pedestrians",
-    "question": "When driving past parked vehicles, which of the following is it most important to do –",
+    "question": "When driving past parked vehicles, which of the following is it most important to do",
     "picture": "None",
     "optionA": "Watch for pedestrians, animals and car doors opening.",
     "optionB": "Drive in the right-hand lane, if there is one.",
@@ -2547,16 +2547,16 @@
     "picture": "None",
     "optionA": "Watch out for pedestrians, who may hurry and take risks.",
     "optionB": "Drive in the middle of the road to avoid splashing pedestrians on the footpath.",
-    "optionC": "Stop and help aged pedestrians across the road.63"
+    "optionC": "Stop and help aged pedestrians across the road."
   },
   {
     "id": 256,
     "title": "PD015",
     "category": "Pedestrians",
-    "question": "At a pedestrian crossing with traffic lights, when the amber light starts 'flashing' after the red stopsignal, it means",
+    "question": "At a pedestrian crossing with traffic lights, when the amber light starts 'flashing' after the red stop signal, it means",
     "picture": "car111.png",
     "optionA": "You may carefully drive through the crossing, if there is no risk of colliding with pedestrians.",
-    "optionB": "The traffic lights are out of order and pedestriansmust not use the crossing.",
+    "optionB": "The traffic lights are out of order and pedestrians must not use the crossing.",
     "optionC": "The green light is due. Do not proceed until the green light appears."
   },
   {
@@ -2577,7 +2577,7 @@
     "picture": "car113.png",
     "optionA": "Stop and give way if there is any danger of hitting them.",
     "optionB": "Continue at the same speed and sound the horn.",
-    "optionC": "Slow down until they are half way throughthe crossing and drive on."
+    "optionC": "Slow down until they are half way through the crossing and drive on."
   },
   {
     "id": 259,
@@ -2683,10 +2683,10 @@
     "id": 269,
     "title": "PD030",
     "category": "Pedestrians",
-    "question": "You drive up to a Light Rail vehicle that has just stopped at a tram stop. What is the mostimportant thing you should do?",
+    "question": "You drive up to a Light Rail vehicle that has just stopped at a tram stop. What is the most important thing you should do?",
     "picture": "car52.png",
     "optionA": "Take extra care, slow down and give way to the pedestrians.",
-    "optionB": "Keep a look out for traffic coming in the oppositedirection.",
+    "optionB": "Keep a look out for traffic coming in the opposite direction.",
     "optionC": "Slow down, but keep moving so you do not delay other drivers."
   },
   {
@@ -2723,7 +2723,7 @@
     "id": 273,
     "title": "SB007",
     "category": "Seat Belts / Restraints",
-    "question": "The most effective device for protecting passengers when in an accident is –",
+    "question": "The most effective device for protecting passengers when in an accident is",
     "picture": "None",
     "optionA": "Seat belts.",
     "optionB": "Safety door latches.",
@@ -2763,7 +2763,7 @@
     "id": 277,
     "title": "SB013",
     "category": "Seat Belts / Restraints",
-    "question": "You are driving a vehicle that only has a seat belt for the driver. To reduce the dangerof being in a vehicle without a seat belt, where is the best place for passengers to sit?",
+    "question": "You are driving a vehicle that only has a seat belt for the driver. To reduce the danger of being in a vehicle without a seat belt, where is the best place for passengers to sit?",
     "picture": "None",
     "optionA": "In the back seat.",
     "optionB": "In the front seat.",
@@ -2853,7 +2853,7 @@
     "id": 286,
     "title": "SL022",
     "category": "Speed Limits",
-    "question": "You are driving in a 70 km/h zone, keeping to the limit. Several vehicles pass you. One of yourpassengers suggests you should keep up with the other traffic. What should you do?",
+    "question": "You are driving in a 70 km/h zone, keeping to the limit. Several vehicles pass you. One of your passengers suggests you should keep up with the other traffic. What should you do?",
     "picture": "car125.png",
     "optionA": "Decide your speed yourself, based on the speed limit and the conditions.",
     "optionB": "Follow the suggestions and keep up with the traffic.",
@@ -2863,7 +2863,7 @@
     "id": 287,
     "title": "SL023",
     "category": "Speed Limits",
-    "question": "You are driving in busy traffic in a 60 km/h zone. You feel 60 km/h is a bit too fast for theconditions. What should you do?",
+    "question": "You are driving in busy traffic in a 60 km/h zone. You feel 60 km/h is a bit too fast for the conditions. What should you do?",
     "picture": "car126.png",
     "optionA": "Slow down to a speed that suits the conditions.",
     "optionB": "Keep up with the other traffic because it's probably safe if the sign says 60 km/h.",
@@ -2923,7 +2923,7 @@
     "id": 293,
     "title": "SL032",
     "category": "Speed Limits",
-    "question": "It is 9.20am on a school day. You are driving at 60 km/h, the samespeed as traffic around you. You pass this sign but the other cars donot slow down much. What should you do?",
+    "question": "It is 9.20am on a school day. You are driving at 60 km/h, the same speed as traffic around you. You pass this sign but the other cars do not slow down much. What should you do?",
     "picture": "car129.png",
     "optionA": "Slow down immediately to 40 km/h or less even though other drivers want to go faster.",
     "optionB": "Drive at the speed of the other drivers because it is safer to go with the flow of traffic than slow others up.",
@@ -2956,18 +2956,18 @@
     "question": "You are facing traffic lights (as shown). What do they mean?",
     "picture": "car131.png",
     "optionA": "You may proceed only in the direction ofthe green arrow.",
-    "optionB": "You may proceed only in the direction of thegreen arrow when the red light has changed togreen.",
+    "optionB": "You may proceed only in the direction of the green arrow when the red light has changed to green.",
     "optionC": "You must give way to oncoming traffic."
   },
   {
     "id": 297,
     "title": "TL002",
     "category": "Traffic Lights / Lanes",
-    "question": "At traffic lights what is meant when a red lightappears?",
+    "question": "At traffic lights what is meant when a red light appears?",
     "picture": "car111.png",
-    "optionA": "Stop, wait behind the stop line until thelights change to green.",
-    "optionB": "Stop, wait behind the stop line until the lightschange to yellow.",
-    "optionC": "Stop, make sure there is no traffic, then drivestraight ahead."
+    "optionA": "Stop, wait behind the stop line until the lights change to green.",
+    "optionB": "Stop, wait behind the stop line until the lights change to yellow.",
+    "optionC": "Stop, make sure there is no traffic, then drive straight ahead."
   },
   {
     "id": 298,
@@ -2975,8 +2975,8 @@
     "category": "Traffic Lights / Lanes",
     "question": "What should you do when approaching traffic lights which change from green to yellow?",
     "picture": "car132.png",
-    "optionA": "Stop at the stop line unless you are soclose that sudden or sharp braking mightcause an accident.",
-    "optionB": "Speed up to clear the intersection before the lightschange to red.",
+    "optionA": "Stop at the stop line unless you are so close that sudden or sharp braking might cause an accident.",
+    "optionB": "Speed up to clear the intersection before the lights change to red.",
     "optionC": "Stop, only if a red light camera is in use."
   },
   {
@@ -3016,7 +3016,7 @@
     "question": "This light means, you",
     "picture": "car135.png",
     "optionA": "Can go straight ahead, or turn left or turn right, if it is safe to do so.",
-    "optionB": "Must stop and wait for the red light beforeproceeding.",
+    "optionB": "Must stop and wait for the red light before proceeding.",
     "optionC": "Can make a U turn provided it is safe to do so."
   },
   {
@@ -3053,7 +3053,7 @@
     "id": 306,
     "title": "TL012",
     "category": "Traffic Lights / Lanes",
-    "question": "It is early morning and there is no other traffic about. You approach an intersection when the trafficlights change from green to yellow. What should you do?",
+    "question": "It is early morning and there is no other traffic about. You approach an intersection when the traffic lights change from green to yellow. What should you do?",
     "picture": "None",
     "optionA": "Stop.",
     "optionB": "Keep going.",
@@ -3077,7 +3077,7 @@
     "picture": "car141.png",
     "optionA": "Stay behind the stop line until the green arrow shows.",
     "optionB": "Move forward slowly.",
-    "optionC": "nter the intersection and wait for the green arrow."
+    "optionC": "Enter the intersection and wait for the green arrow."
   },
   {
     "id": 309,
@@ -3095,8 +3095,8 @@
     "category": "Traffic Lights / Lanes",
     "question": "You wish to turn left at this intersection and the traffic lights are green. What should you do?",
     "picture": "car139.png",
-    "optionA": "Wait behind the stop line until there is roomfor you to enter the new road.",
-    "optionB": "Move forward slowly, make the left turn and waitbehind car A.",
+    "optionA": "Wait behind the stop line until there is room for you to enter the new road.",
+    "optionB": "Move forward slowly, make the left turn and wait behind car A.",
     "optionC": "Enter the intersection and sound the horn."
   },
   {
@@ -3255,7 +3255,7 @@
     "category": "Traffic Signs",
     "question": "When you see this sign you",
     "picture": "car156.png",
-    "optionA": "Must not stop your vehicle at the kerb during thetimes shown.",
+    "optionA": "Must not stop your vehicle at the kerb during the times shown.",
     "optionB": "Must not stop here at any time.",
     "optionC": "May stop at any time to pick up or drop off passengers."
   },
@@ -3297,7 +3297,7 @@
     "picture": "car160.png",
     "optionA": "A sharp depression in the road is ahead, be prepared, slow down.",
     "optionB": "Do not drive with your lights on high beam.",
-    "optionC": "Police station ahead"
+    "optionC": "Police station ahead."
   },
   {
     "id": 331,
@@ -3336,7 +3336,7 @@
     "question": "If the red lights on this sign are flashing what are you required to do?",
     "picture": "car164.png",
     "optionA": "Stop until red lights stop flashing then drive off if it is safe to do so.",
-    "optionB": "Slow down and drive carefully over the crossing if you cannot see a train approaching",
+    "optionB": "Slow down and drive carefully over the crossing if you cannot see a train approaching.",
     "optionC": "Stop until train has passed then proceed immediately."
   },
   {
@@ -3355,7 +3355,7 @@
     "category": "Traffic Signs",
     "question": "What does this sign mean?",
     "picture": "car166.png",
-    "optionA": "Slow down and beware of trucks entering fromthe side.",
+    "optionA": "Slow down and beware of trucks entering from the side.",
     "optionB": "Trucks must use low gear.",
     "optionC": "Heavy vehicle checking station ahead."
   },
@@ -3365,7 +3365,7 @@
     "category": "Traffic Signs",
     "question": "What does this sign mean?",
     "picture": "car167.png",
-    "optionA": "Slow down and look out for pedestrians crossingthe road ahead.",
+    "optionA": "Slow down and look out for pedestrians crossing the road ahead.",
     "optionB": "Stop and help aged pedestrians across the road.",
     "optionC": "Hospital ahead, slow down and proceed with caution."
   },
@@ -3375,7 +3375,7 @@
     "category": "Traffic Signs",
     "question": "What does this sign mean?",
     "picture": "car168.png",
-    "optionA": "Pedestrian crossing ahead, slow down and be prepared to stop",
+    "optionA": "Pedestrian crossing ahead, slow down and be prepared to stop.",
     "optionB": "Overhead footbridge for pedestrians ahead.",
     "optionC": "Joggers ahead, drive carefully."
   },
@@ -3487,7 +3487,7 @@
     "picture": "car179.png",
     "optionA": "Vehicles are not allowed to stop at the kerb except in a medical emergency.",
     "optionB": "Vehicles must not stop at the kerb, except if picking up a passenger.",
-    "optionC": "Vehicles must not stop at the kerb, unless picking upgoods."
+    "optionC": "Vehicles must not stop at the kerb, unless picking up goods."
   },
   {
     "id": 350,
@@ -3505,7 +3505,7 @@
     "category": "Traffic Signs",
     "question": "What does this sign mean?",
     "picture": "car181.png",
-    "optionA": "Railway level crossing ahead, slow down andlook out for trains, be prepared to stop.",
+    "optionA": "Railway level crossing ahead, slow down and look out for trains, be prepared to stop.",
     "optionB": "Cattle or sheep crossing the road ahead, drive slowly.",
     "optionC": "Give way sign ahead, slow down and be prepared to stop."
   },
@@ -3537,7 +3537,7 @@
     "picture": "car184.png",
     "optionA": "Slow down and be prepared to stop and give way to all traffic if there is any danger of a collision.",
     "optionB": "Stop and give way to all traffic even if the intersection is clear.",
-    "optionC": "Slow down and be prepared to give way to traffic on yourright only, if there is any danger of a collision."
+    "optionC": "Slow down and be prepared to give way to traffic on your right only, if there is any danger of a collision."
   },
   {
     "id": 355,
@@ -3555,7 +3555,7 @@
     "category": "Traffic Signs",
     "question": "What does this sign mean?",
     "picture": "car186.png",
-    "optionA": "Slow down, the maximum safe speed around the next curve in the road is 35km/h",
+    "optionA": "Slow down, the maximum safe speed around the next curve in the road is 35km/h.",
     "optionB": "Winding road ahead for next 35km.",
     "optionC": "Next main town 35 km to the right."
   },
@@ -3586,7 +3586,7 @@
     "question": "When you see this sign, what must you do?",
     "picture": "car189.png",
     "optionA": "Slow down and be ready to stop and give way to a train.",
-    "optionB": "Stop before the railway crossing, wait for 1 minute and proceed if thecrossing is clear.",
+    "optionB": "Stop before the railway crossing, wait for 1 minute and proceed if the crossing is clear.",
     "optionC": "Drive quickly over the railway crossing."
   },
   {
@@ -3637,6 +3637,6 @@
     "picture": "car194.png",
     "optionA": "Only vehicles carrying a disable person and displaying a mobility parking authority may park in this area.",
     "optionB": "Motorcyclists may park in this area.",
-    "optionC": "Vehicles may park in this area for up to ten minutes.94"
+    "optionC": "Vehicles may park in this area for up to ten minutes."
   }
 ]
